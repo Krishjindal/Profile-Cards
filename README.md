@@ -1,5 +1,6 @@
 # Profile-Cards
 **📌 How to Run the Project Locally**
+
 **1. Ensure You Have the Following Files in One Folder**
 /Profile-Card-Project
 │── index.html
