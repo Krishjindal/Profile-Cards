@@ -1,6 +1,6 @@
 # Profile-Cards
 **📌 How to Run the Project Locally**
-**1️⃣ Ensure You Have the Following Files in One Folder**
+**1. Ensure You Have the Following Files in One Folder**
 /Profile-Card-Project
 │── index.html
 │── style.css
@@ -10,10 +10,10 @@
 ├── rohit.png
 ├── ms-dhoni.jpg
 
-**2️⃣Open the index.html File**
+**2. Open the index.html File**
 1: Double-click index.html → It will open in your default browser.
 
-**3️⃣If You Want to Use Live Server (Optional)**
+**3.If You Want to Use Live Server (Optional)**
 Install Live Server Extension in VS Code.
 Open the project folder in VS Code.
 Right-click on index.html → Click Open with Live Server.
